@@ -96,6 +96,9 @@ These visualizations make it easy to analyze your spending habits:
 
 Using these insights, you can make informed decisions to improve your savings and spending strategies.
 
+<img width="940" alt="image" src="https://github.com/user-attachments/assets/8b9e33f6-565c-451a-a351-4d31c50f7059" />
+
+
 ---
 
 ## Importance of Savings
